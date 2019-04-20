@@ -3,7 +3,7 @@
         - resolved
         - rejected
     
-    Promises are often using the make http requests.
+    Promises are often used to make http requests.
 */
 const response = {
     data: {
